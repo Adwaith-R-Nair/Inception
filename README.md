@@ -2,8 +2,8 @@
 ![Novel Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/4c26e8ac-2dd1-4d75-8e1a-9f7585e3b381)
 
 
-# Voting System
-Long Description about project. This project do that. This project is awesome...
+# Virtual Voting Machine
+Our aim is to make the "Right to Vote" for every citizen more accessible.
 ## Team members
 1. Adwaith R Nair
 2. Vishal Vijayachandran
