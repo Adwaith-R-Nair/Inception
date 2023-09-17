@@ -3,7 +3,7 @@
 
 
 # Virtual Voting Machine
-Our aim is to make the "Right to Vote" for every citizen more accessible.
+This is a program that helps every voters to get the access for their "Right to Vote".
 ## Team members
 1. Adwaith R Nair
 2. Vishal Vijayachandran
@@ -11,8 +11,8 @@ Our aim is to make the "Right to Vote" for every citizen more accessible.
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+This is a program made in Python.
+This program illustrates the use of loops in Python.
 ## Libraries used
 Library Name - Version
 ## How to configure
